@@ -1,2 +1,15 @@
 # FlowFree
-a recreation of the popular game &lt; FlowFree > where you have to connect the dots in a grid without the lines overlapping each other
+<hr/>
+
+- this is the recreation of FlowFree
+- used html, css, javascript
+
+<br/>
+
+<p>How to play</p>
+
+#
+
+- drag the dots to match the colour
+- the colours are in a grid
+- can't overlap another line
