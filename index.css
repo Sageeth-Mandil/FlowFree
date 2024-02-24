@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 3rem;
+}
+
+.board {
+    margin: auto;
+    background-color: black;
+    width: 505px;
+    height: 505px;
+}
+
+.square {
+    float: left;
+    border: 0.5px solid grey;
+    width: 100px;
+    height: 100px;
+}
+
+.dot {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    top: 25%;
+    position: relative;
+    margin: auto;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#red {
+    background-color: red;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#green {
+    background-color: green;
+}
+
+#purple {
+    background-color: purple;
+}
